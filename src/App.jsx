@@ -65,7 +65,7 @@ export default function App() {
             with my dogs and family.
           </li>
            <li>
-            I don't know how my dogs changed the curor.
+            I don't know how my dogs changed the cursor.
           </li>
         </ul>
       </section>
