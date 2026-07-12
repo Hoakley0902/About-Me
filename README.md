@@ -1,16 +1,46 @@
-# React + Vite
+# Personal Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A personal portfolio website built with React, JavaScript, HTML, and CSS. This project serves as an introduction to my background, technical skills, projects, and career interests in web development, information systems, and user-focused technology.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- About Me section introducing my background and interests
+- Project highlights showcasing web development work
+- Responsive layout for different screen sizes
+- Custom styling using CSS
+- Built with React components for a structured front-end layout
 
-## React Compiler
+## Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React
+- JavaScript
+- HTML
+- CSS
+- Vite
 
-## Expanding the ESLint configuration
+## Project Purpose
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+I created this portfolio website to practice front-end development while building a personal site that can showcase my work to employers. The project helped me strengthen my understanding of React components, page structure, styling, and user-focused design.
+
+## What I Learned
+
+- Building a React project with Vite
+- Organizing components and project files
+- Styling a personal website with CSS
+- Creating a clean layout for portfolio content
+- Improving a website over time through small updates and revisions
+
+## Project Status
+
+This project is currently in progress. I am continuing to update the layout, improve the styling, and add more project details as I build my portfolio.
+
+## Live Demo
+
+Coming soon.
+
+## How to Run Locally
+
+Clone the repository:
+
+```bash
+git clone https://github.com/Hoakley0902/About-Me.git
