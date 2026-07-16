@@ -4,7 +4,7 @@ A personal portfolio website built with React, JavaScript, HTML, CSS, and Vite. 
 
 ## Live Demo
 
-haley-oakley-portfolio.netlify.app
+[haley-oakley-portfolio.netlify.app](https://haley-oakley-portfolio.netlify.app/)
 
 ## Features
 
