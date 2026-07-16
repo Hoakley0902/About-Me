@@ -1,6 +1,6 @@
 # Personal Portfolio Website
 
-A personal portfolio website built with React, JavaScript, HTML, and CSS. The site showcases my background, technical skills, web development projects, and professional experience as I pursue opportunities in software and web development.
+A personal portfolio website built with React, JavaScript, HTML, CSS, and Vite. The site showcases my background, technical skills, web development projects, and professional experience as I pursue opportunities in software and web development.
 
 ## Live Demo
 
